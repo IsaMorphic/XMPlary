@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32317.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMPlary", "XMPlary\XMPlary.csproj", "{794F196F-367B-4F8E-A096-50C6E30FF3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794F196F-367B-4F8E-A096-50C6E30FF3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794F196F-367B-4F8E-A096-50C6E30FF3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794F196F-367B-4F8E-A096-50C6E30FF3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794F196F-367B-4F8E-A096-50C6E30FF3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {519A90C6-DAC4-4455-A21C-959F2F0398E0}
+	EndGlobalSection
+EndGlobal

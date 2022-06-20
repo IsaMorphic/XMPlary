@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XMPlary": {
+      "commandName": "Project",
+      "commandLineArgs": "models\\console-FACES.xm console.obj"
+    }
+  }
+}
